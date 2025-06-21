@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     },
     image: {
         width: width * 0.9,
-        height: width * 0.05,
+        height: width * 0.9,
         marginBottom: 10,
         borderWidth: 1,
         borderColor: '#ddd',
@@ -60,4 +60,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default ProductsScreen
+export default ProductsScreen;
